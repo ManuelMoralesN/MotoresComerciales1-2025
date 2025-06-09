@@ -8,10 +8,8 @@
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/BPI_inflamable.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/BP_Platform.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/08/AIZ0E2IPKOS3PGE1Z528G1.uasset",
-				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/NewNiagaraSystem.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Maps/Propuesta.umap",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/Resources/BP_Platform.uasset",
@@ -22,7 +20,21 @@
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/ID/HJPMOPQZHLE9R0BI9F67KI.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8N/ZW8ZBCX49M1HP66Z4V4ZB4.uasset",
 				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/Blueprints/BP_Spawner.uasset",
-				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Blueprints/BP_NPC.uasset"
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/ThirdPerson/Blueprints/BP_NPC.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelBase.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelBaseCover.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelBaseCoverBroken.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelBaseCoverSingle.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelBaseDoor.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelBigBase.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelBigPass.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelFrame.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelPassSingle.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelSide.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelSideDoor.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/MetroMaintenanceStation/Assets/Structure/SM_TunnelWallPanel.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/BPI_inflamable.uasset",
+				"C:/Users/dalez/OneDrive/Documentos/GitHub/MotoresComerciales1-2025/MotoresComerciales/Content/NewNiagaraSystem.uasset"
 			]
 		}
 	]
